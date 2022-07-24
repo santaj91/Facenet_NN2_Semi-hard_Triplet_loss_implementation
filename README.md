@@ -17,5 +17,6 @@ I trained this model with 10,000 pictures of MNIST dataset.
 
 # reference
 
+https://arxiv.org/abs/1503.03832 <br>
 https://github.com/omoindrot/tensorflow-triplet-loss <br>
 https://github.com/tensorflow/addons/blob/master/tensorflow_addons/losses/triplet.py
